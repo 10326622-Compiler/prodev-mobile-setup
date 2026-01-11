@@ -57,6 +57,7 @@ const styles = StyleSheet.create({
     alignItems: "center",
     padding: 20,
     marginBottom: 50,
+    fontSize: 10,
   },
   textGroup: {
     alignItems: "center",
@@ -64,13 +65,13 @@ const styles = StyleSheet.create({
   textLarge: {
     color: "white",
     fontWeight: "800",
-    fontSize: 40,
+    fontSize: 20,
     textAlign: "center",
     marginBottom: 12,
   },
   textSmall: {
     color: "white",
-    fontSize: 18,
+    fontSize: 8,
     fontWeight: "200",
     textAlign: "center",
   },
